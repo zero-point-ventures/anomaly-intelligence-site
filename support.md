@@ -25,11 +25,11 @@ For EVP sessions, the export includes possible words that Apple's speech recogni
 
 ## Purchases
 
-- **Free:** 1 stationary investigation and 3 EVP sessions of up to 5 questions, once per iPhone.
-- **Single investigation:** 1 stationary investigation and 10 EVP sessions of up to 20 questions. Buy again to add more.
-- **Yearly plan:** unlimited investigations and EVP sessions while it's active.
+- **Free:** 1 stationary session and 3 EVP sessions of up to 5 questions, once per iPhone.
+- **Single investigation:** 3 stationary sessions and 10 EVP sessions of up to 20 questions. Buy again to add more.
+- **Yearly plan:** unlimited stationary and EVP sessions while it's active.
 
-A session counts once it starts properly: an EVP session at its first question, and a stationary investigation when its first baseline finishes. Exporting and reviewing your sessions is always free.
+A session counts once it starts properly: an EVP session at its first question, and a stationary session when its first baseline finishes (or after two and a half minutes of recording). Exporting and reviewing your sessions is always free.
 
 **Restore purchases:** use **Restore purchases** in the app. The yearly plan restores on any iPhone signed in to the same Apple ID. Single investigations and the free allowance belong to the iPhone they were used on.
 
