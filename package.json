@@ -1,0 +1,17 @@
+{
+  "name": "anomaly-intelligence-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check assets/site.js && node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "jsqr": "1.4.0",
+    "marked": "18.2.1",
+    "pngjs": "7.0.0",
+    "qrcode": "1.5.4"
+  }
+}
