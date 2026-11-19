@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+permalink: /privacy/
 ---
 
 # Anomaly Intelligence Privacy Policy

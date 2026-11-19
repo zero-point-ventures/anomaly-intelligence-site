@@ -1,5 +1,6 @@
 ---
 title: Support
+permalink: /support/
 ---
 
 # Anomaly Intelligence Support

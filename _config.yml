@@ -1,3 +1,15 @@
 title: Anomaly Intelligence
-description: Support and privacy for the Anomaly Intelligence iPhone app
-theme: jekyll-theme-primer
+description: Put the unexplained on the record. Paranormal investigation for iPhone.
+url: https://anomalyintelligence.app
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: policy
+exclude:
+  - node_modules
+  - dist
+  - scripts
+  - package.json
+  - package-lock.json
+  - README.md
